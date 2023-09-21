@@ -11,13 +11,13 @@ export default [
     title: "Developer Portfolio",
     imgUrl: "./assets/coachingesteban.jpg",
     stack: ["React", "Tailwind", "Javascript"],
-    link: "https://google.com",
+    link: "https://estebantur.github.io/portfolio/",
   },
   {
     id: 2,
     title: "Medical Website",
     imgUrl: "./assets/Draonsari.png",
     stack: ["HTML", "CSS", "Javascript"],
-    link: "https://google.com",
+    link: "https://promo.draluciaonsari.com/",
   },
 ];
